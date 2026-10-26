@@ -1,4 +1,4 @@
-# Student Project Starter Template
+# Frontend Project Starter Template
 
 A starter template for building, testing, and deploying web projects using Vite, Cypress, GitHub Actions, and GitHub Pages.
 
